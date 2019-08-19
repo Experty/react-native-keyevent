@@ -22,10 +22,5 @@
   },
   "peerDependencies": {
     "react-native": ">=0.30"
-  },
-  "rnpm": {
-    "android": {
-      "packageInstance": "new KeyEventPackage()"
-    }
   }
 }
